@@ -1,2 +1,23 @@
 node_modules/
 dist/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+*~
+
+# OS generated files 
+.directory
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
